@@ -8,19 +8,19 @@
         } 
      
       
-      `<div class="post__card">
+    <div class="post__card">
     <a href="{{href}}">
-      <div class="post__card_-">
-        <div class="post__card__image" style="background-image: url({{img}})">
-        </div>
-        <div>
-          <div class="post__card_meta">
-            <p class="post__card_title">{{title}}</p>
-            <p class="post__card_alttitle">{{sub_title}}</p>
-          </div>
-        </div>
-      </div>
+    <div class="post__card_-">
+    <div class="post__card__image" style="background-image: url({{img}})">
+    </div>
+    <div>
+    <div class="post__card_meta">
+    <p class="post__card_title">{{title}}</p>
+    <p class="post__card_alttitle">{{sub_title}}</p>
+    </div>
+    </div>
+    </div>
     </a>
-  </div> `
+    </div>
   
   [View Demo](https://codepen.io/ahmetaksungur/pen/WNQEebV)
